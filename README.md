@@ -21,8 +21,8 @@ A powerful interface for surgical LoRA manipulation without loading ComfyUI. Fea
 
 ### How to Launch GUI
 ```bash
-# Inside the node folder
-python main.py --gui
+# Inside the app folder
+python gui_launcher.py
 ```
 
 ---
