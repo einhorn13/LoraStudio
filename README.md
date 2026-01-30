@@ -9,5 +9,6 @@ run git clone https://github.com/einhorn13/LoraStudio.git
 
 restart ComfyUI
 
-<img width="197" height="73" alt="image" src="https://github.com/user-attachments/assets/5010ca12-5dad-45af-8812-ff86f67d7a08" />
+<img width="1685" height="1055" alt="image" src="https://github.com/user-attachments/assets/87294777-85a9-470b-b3fc-3ff27fbd3bea" />
+
 
